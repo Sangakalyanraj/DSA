@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-09-01T17:13:34.049Z",
+  "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "LeetCode/0007-reverse-integer/",
+      "readmePath": "LeetCode/0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0007-reverse-integer.java",
+          "path": "LeetCode/0007-reverse-integer/0007-reverse-integer.java",
+          "sha": "0f3b4eade3ae8477d48420aa482807aaa238ab41",
+          "lastSyncedAt": "2026-09-01T17:13:34.049Z"
+        }
+      ]
+    }
+  ]
+}
