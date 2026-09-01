@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-01T17:14:06.715Z",
+  "updatedAt": "2026-09-01T17:16:26.990Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "LeetCode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "2f95077e9af65e8912b26d558074765ab4cbb03b",
           "lastSyncedAt": "2026-09-01T17:14:06.715Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "LeetCode/0389-find-the-difference/",
+      "readmePath": "LeetCode/0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0389-find-the-difference.java",
+          "path": "LeetCode/0389-find-the-difference/0389-find-the-difference.java",
+          "sha": "be393b4529bcd6012ad1a8f2da952132947d692e",
+          "lastSyncedAt": "2026-09-01T17:16:26.990Z"
         }
       ]
     }
