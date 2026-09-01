@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation"
+  },
+  "updatedAt": "2026-09-01T17:15:52.328Z",
+  "problems": [
+    {
+      "frontendId": "2206",
+      "title": "Divide Array Into Equal Pairs",
+      "slug": "divide-array-into-equal-pairs",
+      "problemName": "2206-divide-array-into-equal-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-array-into-equal-pairs/",
+      "folderPath": "LeetCode/2206-divide-array-into-equal-pairs/",
+      "readmePath": "LeetCode/2206-divide-array-into-equal-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2206-divide-array-into-equal-pairs.java",
+          "path": "LeetCode/2206-divide-array-into-equal-pairs/2206-divide-array-into-equal-pairs.java",
+          "sha": "cb130bc5c259efb3050f24aaa2205ce6d4985008",
+          "lastSyncedAt": "2026-09-01T17:15:52.328Z"
+        }
+      ]
+    }
+  ]
+}
