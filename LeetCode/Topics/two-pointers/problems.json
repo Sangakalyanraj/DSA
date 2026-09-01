@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-01T17:14:31.979Z",
+  "updatedAt": "2026-09-01T17:14:42.099Z",
   "problems": [
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "LeetCode/0075-sort-colors/",
+      "readmePath": "LeetCode/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "LeetCode/0075-sort-colors/0075-sort-colors.java",
+          "sha": "aeccb60d37c09cc6e4a97d2bf2e25784185cb341",
+          "lastSyncedAt": "2026-09-01T17:14:42.099Z"
+        }
+      ]
+    },
     {
       "frontendId": "167",
       "title": "Two Sum II - Input Array Is Sorted",
