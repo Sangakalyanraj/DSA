@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-01T17:14:06.715Z",
+  "updatedAt": "2026-09-01T17:15:17.205Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "LeetCode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "2f95077e9af65e8912b26d558074765ab4cbb03b",
           "lastSyncedAt": "2026-09-01T17:14:06.715Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2404",
+      "title": "Most Frequent Even Element",
+      "slug": "most-frequent-even-element",
+      "problemName": "2404-most-frequent-even-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/most-frequent-even-element/",
+      "folderPath": "LeetCode/2404-most-frequent-even-element/",
+      "readmePath": "LeetCode/2404-most-frequent-even-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2404-most-frequent-even-element.java",
+          "path": "LeetCode/2404-most-frequent-even-element/2404-most-frequent-even-element.java",
+          "sha": "9d5d241adbbc088a2f70bf360326dcc5cf24b164",
+          "lastSyncedAt": "2026-09-01T17:15:17.205Z"
         }
       ]
     },
