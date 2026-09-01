@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-01T17:13:45.783Z",
+  "updatedAt": "2026-09-01T17:14:31.979Z",
   "problems": [
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "LeetCode/0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "LeetCode/0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.java",
+          "path": "LeetCode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
+          "sha": "d0d6be513b9adce1a67753b0382d17764cd84151",
+          "lastSyncedAt": "2026-09-01T17:14:31.979Z"
+        }
+      ]
+    },
     {
       "frontendId": "283",
       "title": "Move Zeroes",
