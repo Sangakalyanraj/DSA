@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-01T17:15:52.328Z",
+  "updatedAt": "2026-09-01T17:16:06.607Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "LeetCode/0001-two-sum/",
+      "readmePath": "LeetCode/0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "LeetCode/0001-two-sum/0001-two-sum.java",
+          "sha": "b87b16531f10c44aabdf2c33e1c7bf659ef74ab5",
+          "lastSyncedAt": "2026-09-01T17:16:06.607Z"
+        }
+      ]
+    },
     {
       "frontendId": "53",
       "title": "Maximum Subarray",
