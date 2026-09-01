@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-09-01T17:13:45.783Z",
+  "problems": [
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "LeetCode/0283-move-zeroes/",
+      "readmePath": "LeetCode/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "LeetCode/0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "b1212fa7aa3c27634a0d11db13cb9d71a84913f2",
+          "lastSyncedAt": "2026-09-01T17:13:45.783Z"
+        }
+      ]
+    }
+  ]
+}
