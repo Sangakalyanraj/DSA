@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-01T17:15:52.328Z",
+  "updatedAt": "2026-09-01T17:16:14.119Z",
   "problems": [
+    {
+      "frontendId": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "problemName": "0260-single-number-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-iii/",
+      "folderPath": "LeetCode/0260-single-number-iii/",
+      "readmePath": "LeetCode/0260-single-number-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0260-single-number-iii.java",
+          "path": "LeetCode/0260-single-number-iii/0260-single-number-iii.java",
+          "sha": "b886715dcd94dbcded5b66e2444e5612e06d5922",
+          "lastSyncedAt": "2026-09-01T17:16:14.119Z"
+        }
+      ]
+    },
     {
       "frontendId": "2206",
       "title": "Divide Array Into Equal Pairs",
