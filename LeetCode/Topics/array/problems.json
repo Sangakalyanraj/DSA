@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-01T17:14:58.705Z",
+  "updatedAt": "2026-09-01T17:15:08.746Z",
   "problems": [
     {
       "frontendId": "53",
@@ -183,6 +183,26 @@
           "path": "LeetCode/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
           "sha": "14e05f3ec7c755b86eb39d99d9de299da3927c2c",
           "lastSyncedAt": "2026-09-01T17:13:25.613Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3978",
+      "title": "Unique Middle Element",
+      "slug": "unique-middle-element",
+      "problemName": "3978-unique-middle-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-middle-element/",
+      "folderPath": "LeetCode/3978-unique-middle-element/",
+      "readmePath": "LeetCode/3978-unique-middle-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3978-unique-middle-element.java",
+          "path": "LeetCode/3978-unique-middle-element/3978-unique-middle-element.java",
+          "sha": "7056d6806a85463de9312620eb2f056712a4bcfe",
+          "lastSyncedAt": "2026-09-01T17:15:08.746Z"
         }
       ]
     }
