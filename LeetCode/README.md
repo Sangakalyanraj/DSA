@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 12 | 11 | 0 |
+| 24 | 13 | 11 | 0 |
 
 ## Activity
 
@@ -23,28 +23,28 @@ Contains topicwise list of solved problems.
 | 2026-08-30 | 2 |
 | 2026-09-02 | 1 |
 | 2026-09-04 | 1 |
-| 2026-09-08 | 1 |
+| 2026-09-08 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 78% |
-| Hash Table | 7 | 30% |
-| Math | 5 | 22% |
+| Array | 19 | 79% |
+| Hash Table | 7 | 29% |
+| Math | 5 | 21% |
 | Bit Manipulation | 4 | 17% |
 | Counting | 4 | 17% |
+| Two Pointers | 4 | 17% |
 | Sorting | 3 | 13% |
-| Two Pointers | 3 | 13% |
-| Binary Search | 2 | 9% |
-| Divide and Conquer | 2 | 9% |
-| Dynamic Programming | 2 | 9% |
+| Binary Search | 2 | 8% |
+| Divide and Conquer | 2 | 8% |
+| Dynamic Programming | 2 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -59,5 +59,5 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [String](Topics/string/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
